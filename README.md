@@ -1,1 +1,1 @@
-Pintos-phase-2
+phase2
